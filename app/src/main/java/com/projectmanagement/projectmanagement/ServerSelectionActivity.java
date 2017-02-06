@@ -3,7 +3,7 @@ package com.projectmanagement.projectmanagement;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class serverSelection extends AppCompatActivity {
+public class ServerSelectionActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
